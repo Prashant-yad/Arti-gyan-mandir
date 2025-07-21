@@ -27,7 +27,7 @@ Website for Aarti Gyan Mandir higher secondary school
     <a href="#contact">Contact</a>
   </nav>  <section id="about">
     <h2>About Us</h2>
-    <p>Established in 2012, Arti Gyan Mandir School is a Hindi-medium co-educational institution affiliated with the Madhya Pradesh Board (MPBSE), offering classes from 1 to 10. Our mission is to provide value-based and accessible education to students in Bagoniya and surrounding areas.</p>
+    <p>Established in 2012, Arti Gyan Mandir School is a Hindi-medium co-educational institution affiliated with the Madhya Pradesh Board (MPBSE), offering classes from 1 to 12. Our mission is to provide value-based and accessible education to students in Bagoniya and surrounding areas.</p>
   </section>  <section id="academics">
     <h2>Academics</h2>
     <ul>
